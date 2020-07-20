@@ -2,11 +2,11 @@
     Hermex micro es el codigo utilizado para el micro del proyecto Hermex.
 */
 #include <stdio.h>
-#include "freertos/FreeRTOS.h"
-#include "freertos/task.h"
-#include "esp_system.h"
-#include "esp_spi_flash.h"
-#include "driver/gpio.h"
+// #include "freertos/FreeRTOS.h"
+// #include "freertos/task.h"
+// #include "esp_system.h"
+// #include "esp_spi_flash.h"
+// #include "driver/gpio.h"
 
 /*
     Definicion de todas las variables a utilizar en el proyecto.
